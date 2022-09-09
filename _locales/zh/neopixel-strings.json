@@ -13,7 +13,7 @@
   "NeoPixelColors.White|block": "白",
   "NeoPixelColors.Black|block": "黑",
   "neopixel.Strip.showColor|block": "%strip|顯示顏色%rgb=neopixel_colors",
-  "neopixel.Strip.showRainbow|block": "%strip|顯示彩虹特效 （色相）從%startHue|到%endHue",
+  "neopixel.Strip.showRainbow|block": "%strip|顯a示彩虹特效 （色相）從%startHue|到%endHue",
   "neopixel.Strip.showBarGraph|block": "%strip|顯示柱狀圖 值%value|最大值%high",
   "neopixel.Strip.setPixelColor|block": "%strip|設置顏色 圖元%pixeloffset|為 %rgb=neopixel_colors",
   "neopixel.Strip.setPixelWhiteLED|block": "%strip|設置白燈(RGB+W) 圖元%pixeloffset|為 %white",
