@@ -5,7 +5,7 @@
   "NeoPixelColors.Red|block": "紅",
   "NeoPixelColors.Orange|block": "橙",
   "NeoPixelColors.Yellow|block": "黃",
-  "NeoPixelColors.Green|block": "緑",
+  "NeoPixelColors.Green|block": "?",
   "NeoPixelColors.Blue|block": "藍",
   "NeoPixelColors.Indigo|block": "靛藍",
   "NeoPixelColors.Violet|block": "紫羅蘭",
@@ -32,3 +32,4 @@
   "neopixel.create|block": "引腳%pin|初始化燈帶|%numleds|顆LED（模式%mode|）",
   "neopixel.rgb|block": "RGB（紅%red|綠%green|藍%blue|）"
 }
+
